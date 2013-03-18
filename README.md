@@ -1,7 +1,7 @@
 CSS FizzBuzz
 ===========
 
-CSS implementation of the infamous FizzBuzz. No counter used.
+CSS implementation of the infamous FizzBuzz. No counter used. You can check the result [here](http://youpinadi.github.com/cssfizzbuzz/fizzbuzz.html)
 
 Reminder of the rules:
 
