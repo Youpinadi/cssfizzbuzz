@@ -17,7 +17,7 @@ CSS:
 ```css
 ol
 {
-    list-style-position:inside;
+    list-style-position: inside;
 }
 li:nth-child(3n),
 li:nth-child(5n)
