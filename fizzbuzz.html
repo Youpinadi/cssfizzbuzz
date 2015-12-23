@@ -12,9 +12,12 @@ li:nth-child(3n):before
 {
     content: 'Fizz';
 }
-li:nth-child(5n):after
+li:nth-child(5n):before
 {
     content: 'Buzz';
+}
+li:nth-child(15n):before {
+  content: 'Fizzbuzz' !important;
 }
 </style>
 
